@@ -1,0 +1,5 @@
+.DS_Store
+*.lck
+*.kicad_prl
+*-backups/
+.history/.git/
