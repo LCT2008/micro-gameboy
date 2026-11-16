@@ -1532,7 +1532,7 @@
 	)
 	(global_label "PA2"
 		(shape bidirectional)
-		(at 161.29 123.19 0)
+		(at 161.29 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1541,7 +1541,7 @@
 		)
 		(uuid "1161100a-b20a-4a46-a019-e5782fdb6b9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.29 123.19 0)
+			(at 161.29 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1862,16 +1862,16 @@
 	)
 	(global_label "PA1"
 		(shape bidirectional)
-		(at 175.26 115.57 180)
+		(at 161.29 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "b4d1e9d5-6ac0-4d06-81f0-627eaadac25a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.26 115.57 0)
+			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1928,16 +1928,16 @@
 	)
 	(global_label "PA3"
 		(shape bidirectional)
-		(at 161.29 125.73 0)
+		(at 175.26 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bd1d9c99-ee6c-49bb-8320-dac9f93f8a5f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.29 125.73 0)
+			(at 175.26 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
