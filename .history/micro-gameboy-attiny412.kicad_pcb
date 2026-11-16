@@ -90,7 +90,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -528,7 +527,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "68R"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "eafa05d2-8adf-4ed8-b9b1-e28aa9cb9f6a")
@@ -643,7 +642,7 @@
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
-			(net "Net-(D1-A)")
+			(net "Net-(PWR1-A)")
 			(pintype "passive")
 			(uuid "438e3451-29e2-49c0-9923-9fb151dee025")
 		)
@@ -927,7 +926,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "68R"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d4749dec-2103-4e10-8dcb-d85e4727b071")
@@ -1042,7 +1041,7 @@
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
-			(net "Net-(D2-A)")
+			(net "Net-(SIGNAL1-A)")
 			(pintype "passive")
 			(uuid "fb81d708-daf9-4505-b479-d08af5d8ea4b")
 		)
@@ -1338,7 +1337,7 @@
 		(at 149.2 102.2625 90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
-		(property "Reference" "D2"
+		(property "Reference" "SIGNAL"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "64d0c02e-e620-4a8b-ad66-c8c4f437e7f9")
@@ -1536,7 +1535,7 @@
 			(size 0.975 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(D2-A)")
+			(net "Net-(SIGNAL1-A)")
 			(pinfunction "A_2")
 			(pintype "passive")
 			(uuid "2bbad77b-f654-4cc6-903a-5b82f8536fd4")
@@ -1801,7 +1800,7 @@
 		(at 149.1 111.3625 90)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
-		(property "Reference" "D1"
+		(property "Reference" "PWR"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "6c2e8e6c-08ad-40b3-ad3a-7970096ee4f3")
@@ -1999,7 +1998,7 @@
 			(size 0.975 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "Net-(D1-A)")
+			(net "Net-(PWR1-A)")
 			(pinfunction "A_2")
 			(pintype "passive")
 			(uuid "3bf7ea7d-3e2f-4e24-9440-607d8d59151b")
@@ -3864,7 +3863,7 @@
 		(end 150.139 111.464)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D1-A)")
+		(net "Net-(PWR1-A)")
 		(uuid "056ba11f-92d7-4f9a-bb2c-9f12b640a9f2")
 	)
 	(segment
@@ -3872,7 +3871,7 @@
 		(end 150.139 114.061)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D1-A)")
+		(net "Net-(PWR1-A)")
 		(uuid "27ff75b7-b3ce-499f-b3bc-2b96a3466666")
 	)
 	(segment
@@ -3880,7 +3879,7 @@
 		(end 150.139 111.464)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D1-A)")
+		(net "Net-(PWR1-A)")
 		(uuid "5d413a27-83f4-4537-b786-651598bed91d")
 	)
 	(segment
@@ -3888,7 +3887,7 @@
 		(end 150.139 114.061)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D1-A)")
+		(net "Net-(PWR1-A)")
 		(uuid "b0c2df02-f9ea-435f-96ad-99834360cc11")
 	)
 	(segment
@@ -3896,7 +3895,7 @@
 		(end 149.1 115.1)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D1-A)")
+		(net "Net-(PWR1-A)")
 		(uuid "d989a5c3-894d-4531-bb1a-458d7de4a710")
 	)
 	(segment
@@ -3904,7 +3903,7 @@
 		(end 149.2 105.912)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D2-A)")
+		(net "Net-(SIGNAL1-A)")
 		(uuid "1f8a9e53-91cc-4289-b6a7-4ebafb5cf568")
 	)
 	(segment
@@ -3912,7 +3911,7 @@
 		(end 149.2 105.912)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D2-A)")
+		(net "Net-(SIGNAL1-A)")
 		(uuid "404316e5-1fac-4d08-a4bd-55a12783d40d")
 	)
 	(segment
@@ -3920,7 +3919,7 @@
 		(end 150.208 104.905)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D2-A)")
+		(net "Net-(SIGNAL1-A)")
 		(uuid "691b5396-8675-49dd-8d52-4243ef5562df")
 	)
 	(segment
@@ -3928,7 +3927,7 @@
 		(end 150.208 102.332)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(D2-A)")
+		(net "Net-(SIGNAL1-A)")
 		(uuid "88038140-a3a1-4f39-989f-14452cdf5367")
 	)
 	(zone
