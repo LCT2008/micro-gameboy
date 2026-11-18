@@ -2,7 +2,7 @@
 
 <img src="assets/render front.png" width="800" alt="Micro Gameboy"/>
 
-A pocket-size gaming console powered by the **ATtiny412**, preloaded with the classic **Flappy Bird** game.
+A pocket-size gaming console powered by the **ATtiny412**, featured with the classic **Flappy Bird** game.
 
 Designed around a compact custom PCB, Micro Gameboy features a monochrome I²C OLED display, two physical control buttons, and a simple battery-powered architecture using two AAA batteries.
 
