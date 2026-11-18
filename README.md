@@ -1,6 +1,6 @@
 # Micro Gameboy
 
-<img src="assets/render front.png" width="800" alt="Micro Gameboy"/>
+<img src="assets/render.png" width="800" alt="Micro Gameboy"/>
 
 A pocket-size gaming console powered by the **ATtiny412**, preloaded with the classic **Flappy Bird** game.
 
@@ -32,17 +32,11 @@ More than just a miniature gaming console, it is designed to support compatible 
 ## Gallery
 
 ### Schematics
-<img src="assets/Schematic.png" width="600" alt="Scehmatics"/>
+<img src="assets/schematic updated.png" width="600" alt="Scehmatics"/>
 
 ### PCB Design
 
-<img src="assets/PCB.png" width="600" alt="PCB Layout"/>
-
-### Gameplay
-
-\<img src="null" width="500" alt="Flappy Bird Gameplay"/>
-
----
+<img src="assets/pcb updated.png" width="600" alt="PCB Layout"/>
 
 ## Firmware & Games
 
@@ -63,5 +57,4 @@ Project design files and development documentation are maintained in this reposi
 Follow the project's engineering progress, design decisions, technical challenges, and development milestones in [`journal.md`](journal.md).
 
 ---
-
-*Micro Gameboy — Small console, classic gaming.*
+**Designed with love ❤️ by LCT2008**
