@@ -54,7 +54,7 @@ Project design files and development documentation are maintained in this reposi
 
 ## Development Journal
 
-Follow the project's engineering progress, design decisions, technical challenges, and development milestones in [`journal.md`](journal.md).
+Follow the project's engineering progress, design decisions, technical challenges, and development milestones in [`JOURNAL.md`](JOURNAL.md).
 
 ---
 **Designed with love ❤️ by LCT2008**
