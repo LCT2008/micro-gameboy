@@ -2229,7 +2229,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04_Socket"
+		(property "Value" "SH1106_OLED_1.3_I2C"
 			(at 156.845 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)

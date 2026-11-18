@@ -1084,7 +1084,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04_Socket"
+		(property "Value" "SH1106_OLED_1.3_I2C"
 			(at 0 10 90)
 			(layer "F.Fab")
 			(uuid "2fa520a4-f91a-48a5-a54b-ddff09004fa4")

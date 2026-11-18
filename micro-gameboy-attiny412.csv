@@ -1,0 +1,8 @@
+"Reference","Qty","Value","Footprint","Datasheet","Description"
+"BT1","1","Battery_Cell","Battery:BatteryHolder_Keystone_2468_2xAAA","","Single-cell battery"
+"DOWN1,UP1","2","SW_Push","Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG","","Push button switch, generic, two pins"
+"J2","1","SH1106_OLED_1.3_I2C","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","","Generic connector, single row, 01x04, script generated"
+"PWR1,SIGNAL1","2","LED","LED_SMD:LED_0805_2012Metric","","Light emitting diode"
+"R1,R2","2","68R","Resistor_SMD:R_0805_2012Metric","","Resistor"
+"U1","1","ATtiny412-SS","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/40001911A.pdf","20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8"
+"UPDI1","1","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","","Generic connector, single row, 01x03, script generated"
